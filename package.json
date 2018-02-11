@@ -13,7 +13,8 @@
     "nodemon": "^1.14.12"
   },
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "mysql": "^2.15.0"
   },
   "start": "nodemon server.js"
 }
